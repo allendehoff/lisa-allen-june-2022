@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lisa-allen-june-2022/static/css/main.5e68ae15.css",
-    "main.js": "/lisa-allen-june-2022/static/js/main.8956bd2e.js",
-    "static/js/787.b95eb783.chunk.js": "/lisa-allen-june-2022/static/js/787.b95eb783.chunk.js",
-    "static/media/Banner-photo.jpg": "/lisa-allen-june-2022/static/media/Banner-photo.5c1cb1e0eadcaad360b6.jpg",
-    "static/media/logo.svg": "/lisa-allen-june-2022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lisa-allen-june-2022/index.html",
-    "main.5e68ae15.css.map": "/lisa-allen-june-2022/static/css/main.5e68ae15.css.map",
-    "main.8956bd2e.js.map": "/lisa-allen-june-2022/static/js/main.8956bd2e.js.map",
-    "787.b95eb783.chunk.js.map": "/lisa-allen-june-2022/static/js/787.b95eb783.chunk.js.map"
+    "main.css": "/static/css/main.509bd52f.css",
+    "main.js": "/static/js/main.89407ae2.js",
+    "static/js/787.b95eb783.chunk.js": "/static/js/787.b95eb783.chunk.js",
+    "static/media/Banner-photo.jpg": "/static/media/Banner-photo.5c1cb1e0eadcaad360b6.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.509bd52f.css.map": "/static/css/main.509bd52f.css.map",
+    "main.89407ae2.js.map": "/static/js/main.89407ae2.js.map",
+    "787.b95eb783.chunk.js.map": "/static/js/787.b95eb783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e68ae15.css",
-    "static/js/main.8956bd2e.js"
+    "static/css/main.509bd52f.css",
+    "static/js/main.89407ae2.js"
   ]
 }
