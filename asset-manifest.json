@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.16941aa1.css",
+    "main.css": "/static/css/main.11794206.css",
     "main.js": "/static/js/main.de290d55.js",
     "static/js/787.b95eb783.chunk.js": "/static/js/787.b95eb783.chunk.js",
     "static/media/Banner-photo.jpg": "/static/media/Banner-photo.5c1cb1e0eadcaad360b6.jpg",
     "static/media/venmo-icon.png": "/static/media/venmo-icon.55292f7aa343a90168b0.png",
     "index.html": "/index.html",
-    "main.16941aa1.css.map": "/static/css/main.16941aa1.css.map",
+    "main.11794206.css.map": "/static/css/main.11794206.css.map",
     "main.de290d55.js.map": "/static/js/main.de290d55.js.map",
     "787.b95eb783.chunk.js.map": "/static/js/787.b95eb783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16941aa1.css",
+    "static/css/main.11794206.css",
     "static/js/main.de290d55.js"
   ]
 }
